@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="DTOs\" />
+    <None Remove="Services\Abstract\" />
+    <None Remove="Services\Concrete\" />
+    <None Remove="DTOs\Product\" />
+    <None Remove="DTOs\Product\Request\" />
+    <None Remove="DTOs\Product\Response\" />
+    <None Remove="Validators\" />
+    <None Remove="Validators\Product\" />
+    <None Remove="Exceptions\" />
+    <None Remove="DTOs\Common\" />
+    <None Remove="MappingProfiles\" />
+    <None Remove="DTOs\Role\" />
+    <None Remove="DTOs\Role\Request\" />
+    <None Remove="DTOs\Role\Response\" />
+    <None Remove="Validators\Role\" />
+    <None Remove="DTOs\Auth\" />
+    <None Remove="DTOs\Auth\Request\" />
+    <None Remove="DTOs\Auth\Response\" />
+    <None Remove="Validators\Auth\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Services\Abstract\" />
+    <Folder Include="Services\Concrete\" />
+    <Folder Include="DTOs\Product\" />
+    <Folder Include="DTOs\Product\Request\" />
+    <Folder Include="DTOs\Product\Response\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Validators\Product\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="DTOs\Common\" />
+    <Folder Include="MappingProfiles\" />
+    <Folder Include="DTOs\Role\" />
+    <Folder Include="DTOs\Role\Request\" />
+    <Folder Include="DTOs\Role\Response\" />
+    <Folder Include="Validators\Role\" />
+    <Folder Include="DTOs\Auth\" />
+    <Folder Include="DTOs\Auth\Request\" />
+    <Folder Include="DTOs\Auth\Response\" />
+    <Folder Include="Validators\Auth\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.6.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+</Project>

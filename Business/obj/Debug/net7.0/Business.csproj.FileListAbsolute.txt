@@ -1,0 +1,17 @@
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/bin/Debug/net7.0/Business.deps.json
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/bin/Debug/net7.0/Business.dll
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/bin/Debug/net7.0/Business.pdb
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/bin/Debug/net7.0/Common.dll
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/bin/Debug/net7.0/Common.pdb
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/Business.dll
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/Business.pdb
+/Users/rashadheydarli/Desktop/NET/Api-P331/Business/obj/Debug/net7.0/ref/Business.dll

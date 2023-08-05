@@ -1,0 +1,17 @@
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/bin/Debug/net7.0/DataAccess.runtimeconfig.json
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/bin/Debug/net7.0/Common.dll
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/bin/Debug/net7.0/Common.pdb
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
+/Users/rashadheydarli/Desktop/NET/Api-P331/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
